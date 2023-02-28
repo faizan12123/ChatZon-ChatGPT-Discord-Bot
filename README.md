@@ -1,5 +1,5 @@
 # ChatZon Discord Chat Bot 
-![ChatZon-logos_transparent-cropped](https://user-images.githubusercontent.com/20651843/222009951-9f395f9e-6463-4312-880d-7f8b9bfabd5c.png)
+![ChatZon-logos_transparent-small](https://user-images.githubusercontent.com/20651843/222010190-1aafa50c-0ab3-4de9-955f-9b7c22f9866f.png)
 
 
 ChatZon is a Discord bot developed using JavaScript, Discord's API, and OpenAI's GPT-3 text-davinci-003 model to integrate chat capabilities into Discord servers. With ChatZon, your Discord community can interact with chatbot technology and experience the latest in conversational AI.
