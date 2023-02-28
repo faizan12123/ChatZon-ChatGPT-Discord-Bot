@@ -1,4 +1,4 @@
-# ChatZon Discord Chat Bot ![ChatZon-logos_transparent-small](https://user-images.githubusercontent.com/20651843/222010190-1aafa50c-0ab3-4de9-955f-9b7c22f9866f.png)
+# ChatZon Discord Chat Bot ![ChatZon-logos_transparent-small](https://user-images.githubusercontent.com/20651843/222010269-6f90a467-f627-4f25-86f3-6fed5ff66a37.png)
 
 
 
