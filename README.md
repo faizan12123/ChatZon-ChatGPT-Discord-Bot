@@ -18,7 +18,6 @@ I am working on letting the bot continue past conversations
 
 ## Gallery
 
-| Column 1       | Column 2       |
 | -------------- | -------------- |
 | ![image](https://user-images.githubusercontent.com/20651843/222007049-a1907b00-e314-4d9b-8ece-cff603ceab92.png) | ![image](https://user-images.githubusercontent.com/20651843/222007442-1d8cc7fd-0d8f-451e-9b3b-7cadef0c9115.png) |
 | ![image](https://user-images.githubusercontent.com/20651843/222007691-bd7e7760-1f8b-488d-90c7-0d0a50edb5b8.png) | ![image](https://user-images.githubusercontent.com/20651843/222007985-b4e3c43c-14cd-4383-b6e8-d7ab3c5a9905.png) |
