@@ -1,5 +1,4 @@
 # ChatZon Discord Chat Bot 
-<p align="center"> <img src="logo.png" alt="Logo" width="80" height="80"> </p>
 ![ChatZon-logos_transparent-cropped](https://user-images.githubusercontent.com/20651843/222009951-9f395f9e-6463-4312-880d-7f8b9bfabd5c.png)
 
 
