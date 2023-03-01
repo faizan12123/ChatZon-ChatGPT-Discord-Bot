@@ -18,6 +18,11 @@ Once ChatZon is added to your server, users can interact with the bot by sending
 ## Future Features
 I am working on letting the bot continue past conversations
 
+## Author
+| Name       | Github       | LinkedIn       | 
+| -------------- | -------------- |
+|Faizan Hussain | [Click Here](https://github.com/faizan12123) | [Click Here](https://www.linkedin.com/in/faizan-hussain12123/)
+
 ## Gallery
 | Column 1       | Column 2       |
 | -------------- | -------------- |
