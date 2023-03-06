@@ -5,8 +5,6 @@ ChatZon is a Discord bot developed using JavaScript, AWS, Discord's API, and Ope
 
 ## ChatZon Features and Updates
 
-### ChatZon Features and Updates
-
 | Original Features                           | Updates (ChatZon V2 IS NOW OUT!)                      |
 | ------------------------------------------- | ----------------------------------------------------- |
 | The bot is currently hosted on AWS          | ChatZon can now continue/remember conversations through multiple messages                               |
