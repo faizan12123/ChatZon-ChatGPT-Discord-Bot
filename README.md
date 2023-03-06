@@ -7,14 +7,13 @@ ChatZon is a Discord bot developed using JavaScript, AWS, Discord's API, and Ope
 
 ### ChatZon Features and Updates
 
-| Original Features                           | Updates                                               |
+| Original Features                           | Updates (ChatZon V2 IS NOW OUT!)                      |
 | ------------------------------------------- | ----------------------------------------------------- |
-| The bot is currently hosted on AWS          | ChatZon V2 IS NOW OUT!                                 |
-| Real-time chat functionality                | ChatZon can now continue/remember conversations through multiple messages |
-| Natural language processing                 | Each channel within a server can have its own independent group conversation, separate from other channels |
-| Integration with Discord's API              | Long responses from ChatZon are now split into multiple replies |
-| Advanced conversational AI capabilities     | Features an upgraded AI model so answers are more accurate than ever! |
-|                                             | Replies from ChatZon that contain code are properly embedded |
+| The bot is currently hosted on AWS          | ChatZon can now continue/remember conversations through multiple messages                               |
+| Real-time chat functionality                | Each channel within a server can have its own independent group conversation, separate from other channels |
+| Natural language processing                 | Long responses from ChatZon are now split into multiple replies |
+| Integration with Discord's API              | Features an upgraded AI model so answers are more accurate than ever! |
+| Advanced conversational AI capabilities     | Replies from ChatZon that contain code are properly embedded |
 |                                             | Bug fixes and performance improvements |
 
 ## Installation
