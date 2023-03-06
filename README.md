@@ -29,5 +29,5 @@ Once ChatZon is added to your server, users can interact with the bot by sending
 ## Gallery
 | Column 1       | Column 2       |
 | -------------- | -------------- |
-| ![image](https://user-images.githubusercontent.com/20651843/223222515-e8218399-43fe-4220-a65a-45ec9c1f66b2.png) | ![image](https://user-images.githubusercontent.com/20651843/223231429-50b90835-e3a1-44b9-a979-399499eb71e1.png) |
-| ![image](https://user-images.githubusercontent.com/20651843/223222691-0aca61b5-b525-48ea-9b0f-4cae582018f3.png) | ![image](https://user-images.githubusercontent.com/20651843/222007985-b4e3c43c-14cd-4383-b6e8-d7ab3c5a9905.png) |
+| ![image](https://user-images.githubusercontent.com/20651843/223222515-e8218399-43fe-4220-a65a-45ec9c1f66b2.png) | ![image](https://user-images.githubusercontent.com/20651843/223232360-78e31eb4-6da5-4559-9a33-52cf62019831.png) |
+| ![image](https://user-images.githubusercontent.com/20651843/223222691-0aca61b5-b525-48ea-9b0f-4cae582018f3.png) | ![image](https://user-images.githubusercontent.com/20651843/223232316-fd7fa04b-f035-489b-bd74-d34d63352ad3.png) |
