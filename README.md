@@ -1,4 +1,4 @@
-# [ChatZon Discord Chat Bot](https://discord.com/api/oauth2/authorize?client_id=1080013041300668427&permissions=274877938688&scope=bot)
+# [ChatZon Discord Chat Bot](https://discord.com/api/oauth2/authorize?client_id=1080013041300668427&permissions=274877930496&scope=bot)
 
 ![image](https://user-images.githubusercontent.com/20651843/222010494-6d7d6355-e13b-4077-a545-bcde619e743a.png)
 ChatZon is a Discord bot developed using JavaScript, AWS, Discord's API, and OpenAI's GPT-3 text-davinci-003 model to integrate chat capabilities into Discord servers. With ChatZon, your Discord community can interact with chatbot technology and experience the latest in conversational AI.
@@ -15,7 +15,7 @@ ChatZon is a Discord bot developed using JavaScript, AWS, Discord's API, and Ope
 |                                             | Bug fixes and performance improvements |
 
 ## How to Setup Chatzon
-To add ChatZon to your Discord server, simply [Click Here](https://discord.com/api/oauth2/authorize?client_id=1080013041300668427&permissions=274877938688&scope=bot) and click the "Add to Discord" button. Once added, ChatZon will automatically join your server and begin monitoring chat activity.
+To add ChatZon to your Discord server, simply [Click Here](https://discord.com/api/oauth2/authorize?client_id=1080013041300668427&permissions=274877930496&scope=bot) and click the "Add to Discord" button. Once added, ChatZon will automatically join your server and begin monitoring chat activity.
 
 ## How to Use ChatZon
 Once ChatZon is added to your server, users can interact with the bot by sending messages in the chat starting with "!ChatZon" (not case sensitive). ChatZon will automatically respond to messages and provide natural and engaging conversation.
