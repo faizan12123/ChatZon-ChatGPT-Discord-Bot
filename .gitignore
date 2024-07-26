@@ -9,12 +9,4 @@ node_modules/
 
 ChatZon-logos/
 
-call-count.txt
-
-combined.log
-
-combined-log.txt
-
-server-count.txt
-
-metrics/
+metrics/*
