@@ -1,0 +1,20 @@
+# Ignore .env file
+.env
+
+# Ignore test.js file
+test.js
+
+# Ignore node_modules folder
+node_modules/
+
+ChatZon-logos/
+
+call-count.txt
+
+combined.log
+
+combined-log.txt
+
+server-count.txt
+
+metrics/
