@@ -1,0 +1,12 @@
+# Ignore .env file
+.env
+
+# Ignore test.js file
+test.js
+
+# Ignore node_modules folder
+node_modules/
+
+ChatZon-logos/
+
+metrics/*

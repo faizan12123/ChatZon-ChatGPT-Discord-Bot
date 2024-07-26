@@ -14,11 +14,29 @@ ChatZon is a Discord bot developed using JavaScript, AWS, Discord's API, and Ope
 | Advanced conversational AI capabilities     | Replies from ChatZon that contain code are properly embedded |
 |                                             | Bug fixes and performance improvements |
 
-## How to Setup Chatzon
+## How to Setup ChatZon in Your Server
 To add ChatZon to your Discord server, simply [Click Here](https://discord.com/api/oauth2/authorize?client_id=1080013041300668427&permissions=274877930496&scope=bot) and click the "Add to Discord" button. Once added, ChatZon will automatically join your server and begin monitoring chat activity.
 
+## How to Setup ChatZon Locally
+### Pre-requisites
+To use the ChatGPT Discord Bot, you will need to have NodeJS installed on your system
+
+### Running the bot
+To run the bot, you will need to set the following environment variables set in a `.env` file:
+`DISCORD_TOKEN`: Your Discord bot token
+`OPENAI_API_KEY`: Your OpenAI API key
+
+
+Once you have set the environment variables, you can start the bot by running the following commands:
+
+`npm install`
+`node bot.js`
+
+
+The bot will start running and you should see a message in the console indicating that it has connected to Discord.
+
 ## How to Use ChatZon
-Once ChatZon is added to your server, users can interact with the bot by typing @ChatZon or directly reply to one of ChatZon's messages and type away! ChatZon will automatically respond to messages and provide natural and engaging conversation.
+Once ChatZon is added to your server, users can interact with the bot by typing `@ChatZon` or directly reply to one of ChatZon's messages and type away! ChatZon will automatically respond to messages and provide natural and engaging conversation.
 
 ## Author
 | Name | Github | LinkedIn |
