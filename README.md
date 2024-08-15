@@ -15,7 +15,7 @@ ChatZon is a Discord bot developed using JavaScript, AWS, Discord's API, and Ope
 |                                             | Bug fixes and performance improvements |
 
 ## How to Setup ChatZon in Your Server
-To add ChatZon to your Discord server, simply [Click Here](https://discord.com/api/oauth2/authorize?client_id=1080013041300668427&permissions=274877930496&scope=bot) and click the "Add to Discord" button. Once added, ChatZon will automatically join your server and begin monitoring chat activity.
+To add ChatZon to your Discord server, simply [Click Here](https://discord.com/api/oauth2/authorize?client_id=1080013041300668427&permissions=274877930496&scope=bot) (sorry it is now private and only usable by me as it is too expensive to share!) and click the "Add to Discord" button. Once added, ChatZon will automatically join your server and begin monitoring chat activity.
 
 ## How to Setup ChatZon Locally
 ### Pre-requisites
